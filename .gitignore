@@ -1,0 +1,29 @@
+# Ignore virtual environment
+/my_env/
+
+# Ignore Django migration files
+*.pyc
+_pycache_/
+db.sqlite3
+
+# Ignore static files folder in Play Muslims
+/static/
+
+# Ignore media files folder in development
+/media/
+
+# Ignore secret key
+*.secret
+
+# Ignore IDE files
+.vscode/
+.idea/
+
+# Ignore local development settings
+/local_settings.py
+
+# Ignore any compiled Python files
+*.pyc
+
+# Ignore logs
+/logs/
